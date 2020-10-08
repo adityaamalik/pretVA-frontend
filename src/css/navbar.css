@@ -1,0 +1,19 @@
+#navList {
+    list-style-type: none;
+}
+
+#navList li {
+    display: inline;
+}
+
+#logoutsection {
+    text-align: right;
+}
+
+#bottomline {
+    position: relative; 
+    border: none; 
+    height: 6px; 
+    background: rgb(148, 148, 148); 
+    margin-bottom: 50px;  
+}
