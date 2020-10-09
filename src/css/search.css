@@ -1,0 +1,76 @@
+#searchline {
+    margin-bottom: 2rem;
+    text-align: left;
+}
+
+#centeredcontent {
+    text-align: center;
+}
+
+#searchbuttonleft {
+    border-radius: 50px 0px 0px 50px;
+}
+
+#searchbuttonright {
+    border-radius: 0px 50px 50px 0px;
+}
+
+#searchfiltercontainer {
+    margin-top: 2rem;
+    height: 160px;
+    border: 1px solid rgb(122, 122, 122);
+    border-radius: 20px 20px 20px 20px;
+    -webkit-box-shadow: 0 0 8px rgb(163, 163, 163);
+        box-shadow: 0 0 8px  rgb(163, 163, 163);
+    padding: 20px;
+}
+
+#searchfilterheading {
+    text-align: left;
+}
+
+.roundbtn {
+    border-radius: 50px 50px 50px 50px;
+}
+
+#searchbar {
+    width: 82%;
+}
+
+.bottomline {
+    position: relative; 
+    border: none; 
+    height: 2px; 
+    background: rgb(148, 148, 148); 
+    margin-bottom: 50px;  
+}
+
+.card {
+    width: 18rem;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+  
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.filterCapsule {
+    border: 1px solid black;
+    border-radius: 50px 50px 50px 50px;
+    padding: 0.1rem;
+    margin-left: 1rem;
+}
